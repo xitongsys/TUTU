@@ -1,2 +1,2 @@
 # TUTU Website
-[TuTu Website](http://example.com/).
+[TuTu Website](http://ttpic.site).
